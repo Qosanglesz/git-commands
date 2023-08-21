@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignore pytest output files
+pytest_output.txt
+pytest-report.xml
+
+# Ignore virtual environment
+venv/
+env/
+.venv/
+
+# Ignore IDE and editor
+.vscode/
+.idea/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
